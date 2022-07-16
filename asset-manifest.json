@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/zof-lottery/static/css/main.073c9b0a.css",
-    "main.js": "/zof-lottery/static/js/main.748e36ae.js",
+    "main.css": "/zof-lottery/static/css/main.00d85c45.css",
+    "main.js": "/zof-lottery/static/js/main.77ef911a.js",
     "static/js/787.d10e0dbc.chunk.js": "/zof-lottery/static/js/787.d10e0dbc.chunk.js",
-    "static/media/logo.svg": "/zof-lottery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/zof-lottery/index.html",
-    "main.073c9b0a.css.map": "/zof-lottery/static/css/main.073c9b0a.css.map",
-    "main.748e36ae.js.map": "/zof-lottery/static/js/main.748e36ae.js.map",
+    "main.00d85c45.css.map": "/zof-lottery/static/css/main.00d85c45.css.map",
+    "main.77ef911a.js.map": "/zof-lottery/static/js/main.77ef911a.js.map",
     "787.d10e0dbc.chunk.js.map": "/zof-lottery/static/js/787.d10e0dbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.748e36ae.js"
+    "static/css/main.00d85c45.css",
+    "static/js/main.77ef911a.js"
   ]
 }
